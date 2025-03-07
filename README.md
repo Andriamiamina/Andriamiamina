@@ -84,6 +84,6 @@
 
 <p align="left">
   📧 Email: <a href="mailto:mamisoa.hyacinthe90@gmail.com">mamisoa.hyacinthe90@gmail.com</a><br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/mamisoa-hyacinthe-ba99a11a1">www.linkedin.com/in/mamisoa-hyacinthe-ba99a11a1</a><br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/mamisoa-hyacinthe-ba99a11a1">linkedin.com/in/mamisoa-hyacinthe-ba99a11a1</a><br>
   🌍 Portfolio: <a href="https://portfolio-mamisoa.vercel.app">portfolio-mamisoa.vercel.app</a>
 </p>
