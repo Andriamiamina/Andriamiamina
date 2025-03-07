@@ -6,6 +6,10 @@
 
 ###
 
+<h2 align="left">⚠️ Disclaimer</h2>
+
+<p align="left">This is my **new GitHub account**, as my previous one was deleted.</p>
+
 <h2 align="left">🔥 About Me</h2>
 
 ###
@@ -83,8 +87,3 @@
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/mamisoa-hyacinthe-ba99a11a1">www.linkedin.com/in/mamisoa-hyacinthe-ba99a11a1</a><br>
   🌍 Portfolio: <a href="https://portfolio-mamisoa.vercel.app">portfolio-mamisoa.vercel.app</a>
 </p>
-
-
-<h2 align="left">⚠️ Disclaimer</h2>
-
-<p align="left">This is my **new GitHub account**, as my previous one was deleted.</p>
